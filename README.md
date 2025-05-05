@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Mohammad</h1>
-# 💫 About Me
+<h1 align="center">💫 About Me</h1>
 
 🚀 I'm a passionate Frontend Developer with 1 year of hands-on experience in React and 2 years in web design. I specialize in building high-performance, scalable, and clean UI applications.
 
