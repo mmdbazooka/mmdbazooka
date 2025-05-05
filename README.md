@@ -8,8 +8,8 @@
 
 ### 🔍 About Me:
 
+- 🌐 2 years of experience in web development  
 - ⚛️ 1 year of experience in React development  
-- 🌐 2 years of experience in web design  
 - 💡 Focused on building scalable, fast, and modern UI  
 - 📘 Always learning and leveling up my skills  
 
@@ -31,8 +31,8 @@
 ### 📬 Connect with Me:
 
 <p align="center">
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/mamad__sheykhi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mmdbazooka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -42,3 +42,16 @@
 > *"Code is like humor. When you have to explain it, it’s bad."*  
 > — *Cory House*
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdbazooka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdbazooka&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbazooka&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
