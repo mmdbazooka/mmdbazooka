@@ -1,17 +1,27 @@
 <h1 align="center">Hey there! 👋 I'm Mohammad</h1>
 
-<p align="center">
-🚀 Frontend Developer | Passionate about clean UI, performance & modern web tech 🚀  
-</p>
-
+# 💫 About Me
 ---
 
-### 🔍 About Me:
+🚀 I'm a passionate Frontend Developer with 1 year of hands-on experience in React and 2 years in web design. I specialize in building high-performance, scalable, and clean UI applications.
 
-- 🌐 2 years of experience in web development  
-- ⚛️ 1 year of experience in React development  
-- 💡 Focused on building scalable, fast, and modern UI  
-- 📘 Always learning and leveling up my skills  
+🌍 Currently focused on:
+- Developing frontend applications using **React**, and modern UI tools like **MUI**, **TailwindCSS**.
+- Enhancing my frontend knowledge with **Next.js**
+
+🤝 I’m looking to collaborate on:
+- Open-source React projects
+- Full-stack applications using React.js & Node.js
+
+💡 Always eager to learn:
+- Deepening my knowledge of backend development with Node.js and Express
+- Performance optimization for faster, smoother user experiences
+- Building and managing complex React projects with scalable architecture
+
+💬 Ask me about:
+- Front-end development
+- React best practices
+- UI/UX strategies
 
 ---
 
@@ -45,13 +55,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdbazooka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmdbazooka&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdbazooka&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdbazooka&theme=merko" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbazooka&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbazooka&layout=compact&theme=merko" alt="Most Used Languages" />
 </p>
