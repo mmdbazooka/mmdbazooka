@@ -52,13 +52,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdbazooka&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hello&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdbazooka&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hello&theme=merko" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbazooka&layout=compact&theme=merko" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello&layout=compact&theme=merko" alt="Most Used Languages" />
 </p>
