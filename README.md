@@ -1,14 +1,13 @@
 <h1 align="center">💫 About Me</h1>
 
-🚀 I'm a passionate Frontend Developer with 1 year of hands-on experience in React and 2 years in web design. I specialize in building high-performance, scalable, and clean UI applications.
+🚀 I'm a passionate Frontend Developer with 2.5 year of hands-on experience in React and 4 years in web design. I specialize in building high-performance, scalable, and clean UI applications.
 
 🌍 Currently focused on:
-- Developing frontend applications using **React**, and modern UI tools like **MUI**, **TailwindCSS**.
-- Enhancing my frontend knowledge with **Next.js**
+- Developing frontend applications using **Next** **React**, and modern UI tools like **MUI**, **TailwindCSS**.
 
 🤝 I’m looking to collaborate on:
 - Open-source React projects
-- Full-stack applications using React.js & Node.js
+- Full-stack applications using Next.js & Node.js
 
 💡 Always eager to learn:
 - Deepening my knowledge of backend development with Node.js and Express
