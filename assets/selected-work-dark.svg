@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="166" viewBox="0 0 1200 166" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Selected work</title><desc id="desc"></desc>
+<defs><radialGradient id="glow"><stop stop-color="#425BFF" stop-opacity=".12"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="1198" height="164" rx="22"/></clipPath></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect x="1" y="1" width="1198" height="164" rx="22" fill="#10141C" stroke="#30384A"/>
+<g clip-path="url(#clip)"><circle cx="1160" cy="0" r="330" fill="url(#glow)"/><text x="44" y="45" fill="#91A1FF" font-size="18" font-weight="700" letter-spacing="1">02 / EXPERIENCE</text><text x="44" y="99" fill="#F3F3EE" font-size="36" font-weight="700" letter-spacing="0">Selected work</text></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="100" viewBox="0 0 380 100" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Portfolio</title><desc id="desc"></desc>
+<defs><radialGradient id="glow"><stop stop-color="#425BFF" stop-opacity=".12"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="378" height="98" rx="22"/></clipPath></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect x="1" y="1" width="378" height="98" rx="22" fill="#F0F1EE" stroke="#CFD2D8"/>
+<g clip-path="url(#clip)"><circle cx="340" cy="0" r="330" fill="url(#glow)"/><text x="32" y="62" fill="#151922" font-size="30" font-weight="700" letter-spacing="0">Portfolio</text><path d="M343 63L361 45M345 45H361V61" stroke="#334CE0" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g></svg>

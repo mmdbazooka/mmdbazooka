@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="76" viewBox="0 0 180 76" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">LinkedIn</title><desc id="desc"></desc>
+<defs><radialGradient id="glow"><stop stop-color="#425BFF" stop-opacity=".12"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="178" height="74" rx="22"/></clipPath></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect x="1" y="1" width="178" height="74" rx="22" fill="#F0F1EE" stroke="#CFD2D8"/>
+<g clip-path="url(#clip)"><circle cx="140" cy="0" r="330" fill="url(#glow)"/><text x="20" y="48" fill="#151922" font-size="24" font-weight="700" letter-spacing="0">LinkedIn</text><path d="M143 51L161 33M145 33H161V49" stroke="#334CE0" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g></svg>

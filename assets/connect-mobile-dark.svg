@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="265" viewBox="0 0 600 265" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Have a thoughtful product to build? Let&#x27;s connect.</title><desc id="desc">Email: mmdbazooka@gmail.com</desc>
+<defs><radialGradient id="glow"><stop stop-color="#425BFF" stop-opacity=".12"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="598" height="263" rx="22"/></clipPath></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}</style>
+<rect x="1" y="1" width="598" height="263" rx="22" fill="#10141C" stroke="#30384A"/>
+<g clip-path="url(#clip)"><circle cx="560" cy="0" r="330" fill="url(#glow)"/><text x="36" y="73" fill="#F3F3EE" font-size="36" font-weight="700" letter-spacing="0">Have a thoughtful product to</text><text x="36" y="119" fill="#F3F3EE" font-size="36" font-weight="700" letter-spacing="0">build?</text><text x="36" y="185" fill="#91A1FF" font-size="29" font-weight="700" letter-spacing="0">Let&#x27;s connect.</text><path d="M544 187L562 169M546 169H562V185" stroke="#91A1FF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/><text x="36" y="227" fill="#B0B9CA" font-size="24" font-weight="400" letter-spacing="0">mmdbazooka@gmail.com</text></g></svg>
