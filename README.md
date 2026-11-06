@@ -23,15 +23,17 @@ My work spans restaurant operations, interactive commerce, and business dashboar
     <td width="50%" valign="top">
       <h3>01 / Miznex</h3>
       <p><strong>Restaurant SaaS · Front-End Lead</strong></p>
+      <p><sub>Company based in Italy · Remote collaboration</sub></p>
       <p>Restaurant administration, order interfaces, kitchen workflows, and API-connected content. Reusable UI, responsive layouts, and RTL/LTR support.</p>
       <p><a href="https://miznex.com/">Explore the product ↗</a></p>
     </td>
-  <td width="50%" valign="top">
-    <h3>02 / Hexorix</h3>
-    <p><strong>Product engineering · Front-End Developer</strong></p>
-    <p>Frontend development for web products and internal tools, with reusable components, responsive interfaces, and close collaboration with the delivery team.</p>
-    <p><a href="https://hexorix.net/">Visit Hexorix ↗</a></p>
-  </td>
+    <td width="50%" valign="top">
+      <h3>02 / Hexorix</h3>
+      <p><strong>Product engineering · Front-End Developer</strong></p>
+      <p><sub>Company based in Estonia · Remote collaboration</sub></p>
+      <p>Frontend development for web products and internal tools, with reusable components, responsive interfaces, and close collaboration with the delivery team.</p>
+      <p><a href="https://hexorix.net/">Visit Hexorix ↗</a></p>
+    </td>
   </tr>
 </table>
 
