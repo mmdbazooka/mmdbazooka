@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="388" viewBox="0 0 1200 388" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Mohammad Sheykhi — Front-End Developer and Team Lead</title>
+<desc id="desc">React, Next.js, TypeScript. Currently learning Python, FastAPI, AI integration, and cloud. Decorative orbital animation.</desc>
+<defs>
+  <linearGradient id="edge" x1="780" y1="20" x2="1200" y2="388" gradientUnits="userSpaceOnUse"><stop stop-color="#425BFF" stop-opacity=".7"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#425BFF" stop-opacity=".24"/><stop offset="1" stop-color="#425BFF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="metal" x1="875" y1="94" x2="1084" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#151922" stop-opacity=".75"/><stop offset=".5" stop-color="#586070" stop-opacity=".3"/><stop offset="1" stop-color="#151922" stop-opacity=".9"/></linearGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="1198" height="386" rx="22"/></clipPath>
+</defs>
+<style>
+  text { font-family: Arial, Helvetica, sans-serif; }
+  .orbit { transform-origin: 984px 180px; animation: orbit 30s linear infinite; }
+  .pulse { animation: pulse 4s ease-in-out infinite; }
+  @keyframes orbit { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  @keyframes pulse { 0%, 100% { opacity: .5; } 50% { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .orbit, .pulse { animation: none; } }
+</style>
+<rect x="1" y="1" width="1198" height="386" rx="22" fill="#F0F1EE" stroke="#CFD2D8"/>
+<g clip-path="url(#clip)">
+  <circle cx="1010" cy="160" r="240" fill="url(#glow)"/>
+  <path d="M778 0L1200 388M853 0L1200 319M928 0L1200 244M1003 0L1200 169" stroke="#CFD2D8" opacity=".35"/>
+  <path d="M1160 0H1200V388H850" stroke="url(#edge)" stroke-width="3"/>
+  <circle cx="56" cy="45" r="4" fill="#6077FF" class="pulse"/>
+  <text x="70" y="49" fill="#586070" font-size="12" font-weight="700" letter-spacing="2.1">FRONT-END ENGINEERING / TEAM LEADERSHIP</text>
+  <text x="52" y="140" fill="#151922" font-size="64" font-weight="700" letter-spacing="-2.5">Mohammad Sheykhi</text>
+  <text x="55" y="187" fill="#586070" font-size="26" letter-spacing="-.4">React · Next.js · TypeScript</text>
+  <rect x="54" y="214" width="268" height="35" rx="7" fill="#E2E5E9" stroke="#CFD2D8"/>
+  <rect x="65" y="227" width="8" height="8" rx="2" fill="#6177FF"/>
+  <text x="84" y="237" fill="#151922" font-size="12" font-weight="700" letter-spacing="1">MIZNEX / FRONT-END LEAD</text>
+  <text x="55" y="289" fill="#788BFF" font-size="11" font-weight="700" letter-spacing="1.8">CURRENTLY LEARNING</text>
+  <text x="55" y="311" fill="#586070" font-size="16">Python / FastAPI / AI integration / Cloud</text>
+  <g opacity=".9">
+    <circle cx="984" cy="180" r="122" stroke="#CFD2D8"/>
+    <circle cx="984" cy="180" r="93" stroke="#CFD2D8" stroke-dasharray="2 10"/>
+    <ellipse cx="984" cy="180" rx="140" ry="55" transform="rotate(-32 984 180)" stroke="url(#metal)" stroke-width="1.5"/>
+    <ellipse cx="984" cy="180" rx="140" ry="55" transform="rotate(32 984 180)" stroke="#CFD2D8"/>
+  </g>
+  <g class="orbit"><circle cx="984" cy="58" r="6" fill="#6E82FF"/><circle cx="984" cy="58" r="13" stroke="#657BFF" stroke-opacity=".35"/></g>
+  <rect x="935" y="131" width="98" height="98" rx="24" fill="#E8EAE8" stroke="url(#metal)"/>
+  <path d="M963 160L946 180L963 200M1005 160L1022 180L1005 200M991 157L978 203" stroke="#7185FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="903" y="284" width="162" height="28" rx="14" fill="#E2E5E9" stroke="#CFD2D8"/>
+  <text x="984" y="303" text-anchor="middle" fill="#586070" font-size="11" font-weight="700" letter-spacing="1.3">UI / PRODUCT / CODE</text>
+  <path d="M54 337H1146" stroke="#CFD2D8"/>
+  <text x="54" y="363" fill="#586070" font-size="10" font-weight="700" letter-spacing="1.7">BUILDING USEFUL WEB PRODUCTS.</text>
+  <text x="1146" y="363" text-anchor="end" fill="#586070" font-size="12">mohammad-sheykhi.vercel.app</text>
+</g>
+</svg>

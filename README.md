@@ -1,72 +1,68 @@
-<h1 align="center">💫 About Me</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Mohammad Sheykhi — Front-End Developer and Team Lead. React, Next.js, TypeScript. Learning FastAPI, AI integration, and cloud." src="assets/header-dark.svg" width="100%">
+</picture>
 
-🚀 I'm a passionate Frontend Developer with 2.5 year of hands-on experience in React and 4 years in web design. I specialize in building high-performance, scalable, and clean UI applications.
+<p align="center">
+  <a href="https://mohammad-sheykhi.vercel.app/"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-sheykhi-a17aa4253/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:mmdbazooka@gmail.com"><strong>Email</strong></a>
+</p>
 
-🌍 Currently focused on:
-- Developing frontend applications using **Next** **React**, and modern UI tools like **MUI**, **TailwindCSS**.
+### Frontend engineering, with the product in mind.
 
-🤝 I’m looking to collaborate on:
-- Open-source React projects
-- Full-stack applications using Next.js & Node.js
+I'm a **Front-End Developer & Team Lead at [Miznex](https://miznex.com/)**, building web applications with **React, Next.js, and TypeScript**. I care about clear interactions, maintainable components, and reliable API integration.
 
-💡 Always eager to learn:
-- Deepening my knowledge of backend development with Node.js and Express
-- Performance optimization for faster, smoother user experiences
-- Building and managing complex React projects with scalable architecture
+My work spans restaurant operations, interactive commerce, and business dashboards. I'm now expanding into **Python, FastAPI, LLM API integration, and cloud fundamentals**.
 
-💬 Ask me about:
-- Front-end development
-- React best practices
-- UI/UX strategies
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Miznex</h3>
+      <p><strong>Restaurant SaaS · Front-End Lead</strong></p>
+      <p>Restaurant administration, order interfaces, kitchen workflows, and API-connected content. Reusable UI, responsive layouts, and RTL/LTR support.</p>
+      <p><a href="https://miznex.com/">Explore the product ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Chap-T</h3>
+      <p><strong>Interactive customization · E-commerce</strong></p>
+      <p>A T-shirt designer with front/back editing, image uploads, Persian/English text controls, and a connected cart, payment, and order flow.</p>
+      <p><a href="https://github.com/mmdbazooka/Chap-T">View project showcase ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+**Also exploring:** [Karixo](https://karixo-work.vercel.app/), a frontend concept for an integrated construction workspace. [More selected work →](https://mohammad-sheykhi.vercel.app/)
+
+### Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| Core frontend | React · Next.js App Router · TypeScript · JavaScript |
+| UI & styling | Tailwind CSS · SCSS · Responsive design · RTL/LTR |
+| State & integration | Redux Toolkit · REST APIs · Axios · Fetch |
+| Backend project experience | Node.js · Express.js · MongoDB |
+| Workflow | Git · GitHub · Vercel · Liara |
+
+### Currently learning
+
+- **Python & FastAPI:** API design, validation, and backend architecture.
+- **AI integration:** connecting LLM APIs to useful product features.
+- **Cloud fundamentals:** compute, storage, identity, and observability across AWS and Azure.
+- **TanStack Query:** deeper understanding of query keys, caching, and invalidation.
+
+### How I approach frontend work
+
+- Give components clear responsibilities and keep feature behavior easy to follow.
+- Treat loading, empty, and error states as part of the feature.
+- Think through the full user journey, including mobile and RTL/LTR behavior.
+- Make implementation choices understandable to the next developer.
 
 ---
 
-### 🛠 Tech Stack:
+**Have a thoughtful product to build?** [Let's connect.](mailto:mmdbazooka@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
----
-
-### 📬 Connect with Me:
-
-<p align="center">
-  <a href="https://instagram.com/mamad__sheykhi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mmdbazooka@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-sheykhi-a17aa4253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📌 Today's Quote:
-
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> — *Cory House*
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdbazooka&show_icons=true&theme=merko" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdbazooka&theme=merko" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdbazooka&layout=compact&theme=merko" alt="Most Used Languages" />
-</p>
+<img src="assets/footer.svg" alt="Building useful web products. Learning how the whole system works." width="100%">
