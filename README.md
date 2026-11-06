@@ -26,12 +26,12 @@ My work spans restaurant operations, interactive commerce, and business dashboar
       <p>Restaurant administration, order interfaces, kitchen workflows, and API-connected content. Reusable UI, responsive layouts, and RTL/LTR support.</p>
       <p><a href="https://miznex.com/">Explore the product ↗</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>02 / Chap-T</h3>
-      <p><strong>Interactive customization · E-commerce</strong></p>
-      <p>A T-shirt designer with front/back editing, image uploads, Persian/English text controls, and a connected cart, payment, and order flow.</p>
-      <p><a href="https://github.com/mmdbazooka/Chap-T">View project showcase ↗</a></p>
-    </td>
+  <td width="50%" valign="top">
+    <h3>02 / Hexorix</h3>
+    <p><strong>Product engineering · Front-End Developer</strong></p>
+    <p>Frontend development for web products and internal tools, with reusable components, responsive interfaces, and close collaboration with the delivery team.</p>
+    <p><a href="https://hexorix.net/">Visit Hexorix ↗</a></p>
+  </td>
   </tr>
 </table>
 
@@ -41,11 +41,11 @@ My work spans restaurant operations, interactive commerce, and business dashboar
 
 | Area | Technologies |
 | :--- | :--- |
-| Core frontend | React · Next.js App Router · TypeScript · JavaScript |
-| UI & styling | Tailwind CSS · SCSS · Responsive design · RTL/LTR |
-| State & integration | Redux Toolkit · REST APIs · Axios · Fetch |
+| Core frontend | React · Next.js · TypeScript · JavaScript |
+| UI & styling | Tailwind CSS · Shadcn/ui · SCSS · Responsive design |
+| State managment | Redux Toolkit · TanStack Query · Context |
 | Backend project experience | Node.js · Express.js · MongoDB |
-| Workflow | Git · GitHub · Vercel · Liara |
+| Workflow | Git · GitHub · Vercel · Netlify · Liara |
 
 ### Currently learning
 
