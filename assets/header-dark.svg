@@ -21,9 +21,9 @@
   <path d="M778 0L1200 388M853 0L1200 319M928 0L1200 244M1003 0L1200 169" stroke="#30384A" opacity=".35"/>
   <path d="M1160 0H1200V388H850" stroke="url(#edge)" stroke-width="3"/>
   <circle cx="56" cy="45" r="4" fill="#6077FF" class="pulse"/>
-  <text x="70" y="49" fill="#A6AEBF" font-size="12" font-weight="700" letter-spacing="2.1">FRONT-END ENGINEERING / TEAM LEADERSHIP</text>
+  <text x="70" y="49" fill="#A6AEBF" font-size="12" font-weight="700" letter-spacing="2.1">FULL-STACK AI ENGINEERING / TEAM LEADERSHIP</text>
   <text x="52" y="140" fill="#F3F3EE" font-size="64" font-weight="700" letter-spacing="-2.5">Mohammad Sheykhi</text>
-  <text x="55" y="187" fill="#A6AEBF" font-size="26" letter-spacing="-.4">React · Next.js · TypeScript</text>
+  <text x="55" y="187" fill="#A6AEBF" font-size="26" letter-spacing="-.4">Next.js · TypeScript · Node.js · FastAPI</text>
   <rect x="54" y="214" width="268" height="35" rx="7" fill="#1A2130" stroke="#30384A"/>
   <rect x="65" y="227" width="8" height="8" rx="2" fill="#6177FF"/>
   <text x="84" y="237" fill="#F3F3EE" font-size="12" font-weight="700" letter-spacing="1">MIZNEX / FRONT-END LEAD</text>
